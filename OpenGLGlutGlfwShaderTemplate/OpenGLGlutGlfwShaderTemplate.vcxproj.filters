@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\NewFilter1">
+      <UniqueIdentifier>{9c46c129-68b0-4642-92cc-cd59f0583e6a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="testGlut.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testGlFW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prepShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testGlutWithShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testGlfwWithShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-1-Triangles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-2-Sierpenski.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-3-Sierpenski_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-4-Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-5-Square-interleaved.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-6-TriangleAndSquare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-1-Triangles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-2-Sierpenski2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-3-Sierpenski3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-4-Tetrahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-5-Tetrahedron2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-6-DynamicTriangles-mouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-7-RotatingTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-8-RotatingTriangle-DoubleBuffering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-9-Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-10-Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3-1-Cube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3-2-AutomaticAnimationCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3-3-SemiAutomaticAnimationCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3-4-SemiAutomaticAnimationQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3-5-SemiAutomaticAnimationQuadUsingModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3-6-InteractiveAnimationCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5-1-OrthographicProjection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5-2-PerspectiveProjection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5-3-SquareOfWalls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5-4-Sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5-5-Shadow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-1-FrameIndependentDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-2-RotatingCubeGLFW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-3-FixedTimeStepDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-3-FixedTimeStepDemo2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-4-Quads.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-5-SpinCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-6-UniformQualifiedVariableDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-7-gamepad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-8-GamepadGLFW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-9-RotatingCubeInGPU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-10-RotatingCubeQuaternions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-11-OrthographicProjection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-12-PerspectiveProjection0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-13-PerspectiveProjection1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-14-PerspectiveProjection2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3-7-UniformDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6-1-DynamicPolygon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6-2-CircularAnnuluses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6-3-Helix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6-4-SineCurve.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="printingFont.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6-5-Ellipse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6-6-Hemisphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prism.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prismTri.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="diamond2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="octahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cylinder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cameraTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MTPractice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MTPractice2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HexaPrism.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MTPractice3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shader1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="maze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week9-1-TextureDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week9-2-checkerboardDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week9-3-FieldAndSkyDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week9-4-FieldAndSkyFilteredDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week10-1-AnimatedFieldAndSkyFilteredDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week10-2-CubeNoTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week10-2-CubeWithTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week10-3-DiceDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week10-4-CubeMapDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week10-5-SkyboxDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week10-6-Texture2DArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteTextTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GAME2012_A3_DasShila.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week11-1-Sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week11-2-Gouraud-Lambertian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week11-3-Gouraud-Lambertian-Smooth-Shading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week11-4-Phong-Lambertian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week11-5-Phong-Lambertian-Scaling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week12-1-Phong-Lambertian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week12-2-Gouraud-Phong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week12-3-PhongShading-PhongReflection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week12-4-PhongShading-Phong-BlinnReflection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week12-5-ToonShading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week11-6-Cube-Phong_Lambertian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week12-6-PhongShading-PhongReflection2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-1-DirectionalLightDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-1-DirectionalLightDemo2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-2-PointLightDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-3-PointLightDemo2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-3-PointLightDemo22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-4-PointLightDemo3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-5-multipleLightDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-5-multipleLightDemo2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week13-6-Spotlight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week14-1-Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week14-2-Blending.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week14-3-BlendLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="prepShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shader1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Light1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Light2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cube.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="square.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="square.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="triangles.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="triangles.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="tetrahedron.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="tetrahedron.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube3.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube3.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube2.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubeProjection.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubeProjection.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube5.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube5.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube6.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube7.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube8.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubeE.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubeE.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="lightE.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="triangles9.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="triangles9.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="triangles10.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubeNoTexture.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubeNoTexture.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubemap.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubemap.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="texture2darray.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="texture2darray.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere1.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere1.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere2.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere2.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere3.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere3.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere4.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere4.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere5.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere5.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere6.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere6.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere4_123.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere4-2.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere4-2.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere7.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere7.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere7-2.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere8.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere8.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere9.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere9.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere9-2.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere10.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere10.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere11.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere11.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="sphere11-2.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="spotlight.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="spotlight.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="spotlight2.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="spotlight2.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="blending.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="blending.vert">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="VertexShader.hlsl">
+      <Filter>Header Files</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Media\spheremap.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
